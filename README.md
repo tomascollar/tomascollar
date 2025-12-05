@@ -42,6 +42,10 @@ I enjoy building **hands-on labs** with Mikrotik RouterOS, EVE-NG, RedHat, Docke
 
 ## 📁 Featured Projects
 
+
+🚧 Currently uploading new practice projects (networking labs, Docker and Linux configuration examples).
+
+
 ### 🧾 C# Desktop Sales System
 A desktop application for managing products, stock, sales and users, with a local SQL database.
 
